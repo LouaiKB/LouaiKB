@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louaï</h1>
 <h3 align="center">Master Of science student in Bioinformatics (software development and data analysis)</h3>
 
-- 🌱 I’m currently learning **Lumen PHP, ReactJs, MongoDB**
+- 🌱 I’m currently learning **Laravel/Lumen PHP, ReactJs, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
